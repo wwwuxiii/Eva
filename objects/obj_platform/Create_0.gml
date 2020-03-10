@@ -1,0 +1,1 @@
+time_until_destroy = random_range(90, 180);

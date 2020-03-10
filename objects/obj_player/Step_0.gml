@@ -1,0 +1,3 @@
+if (left){
+	xvel = xaccel;
+}
